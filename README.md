@@ -41,7 +41,7 @@ DSA-Practice/
 
 | Topic | Solved |
 |-------|--------|
-| Sorting | 0 / 7 |
+| Sorting | 1 / 7 |
 | Arrays | 0 / 40 |
 | Binary Search | 0 / 32 |
 | Strings | 0 / 15 |

@@ -4,9 +4,9 @@ Daily DSA problem-solving practice, following [Striver's A2Z DSA Sheet](https://
 
 ## 🔥 Current Streak
 
-- **Total solved:** 11
-- **Current streak:** 11 days
-- **Last updated:** 2/09/2026
+- **Total solved:** 13
+- **Current streak:** 12 days
+- **Last updated:** 3/09/2026
 
 ## 📁 Structure
 
@@ -40,7 +40,7 @@ DSA-Practice/
 | Topic | Solved |
 |-------|--------|
 | Sorting |7 / 7 |
-| Arrays | 4 / 40 |
+| Arrays | 6/ 40 |
 | Binary Search | 0 / 32 |
 | Strings | 0 / 15 |
 | LinkedList | 0 / 31 |
